@@ -17,6 +17,6 @@ Senzor: VL53L1X
 
 Povezovalne žice
 
-# Vezalna shema
+# Vezalna shema v Easy EDA
 
 Mjahla
