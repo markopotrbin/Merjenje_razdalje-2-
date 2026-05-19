@@ -1,1 +1,1 @@
-Naprava deluje na podlagi izmerjene razdalje, ki jo izmeri senzor. 
+Ta naprava je digitalni merilnik razdalje z vizualnim prikazom na zaslonu. Združuje natančen laserski senzor in barvni zaslon, celotno delovanje pa nadzoruje mikrokrmilnik ESP8266
