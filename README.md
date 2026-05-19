@@ -17,6 +17,8 @@ Senzor: VL53L1X
 
 Povezovalne žice
 
-# Vezalna shema v Easy EDA
-<img width="766" height="324" alt="image" src="https://github.com/user-attachments/assets/e1db3e51-91f4-44df-ab35-aa3118b5c43d" />
+# Vezalna shema
+Izdela sva vezalno shemo v programu EasyEDA:
+<img width="777" height="355" alt="image" src="https://github.com/user-attachments/assets/b680a9e1-8d64-448a-b8ad-9d4300bc5cd0" />
+
 
