@@ -18,3 +18,5 @@ Senzor: VL53L1X
 Povezovalne žice
 
 # Vezalna shema
+
+Mjahla
