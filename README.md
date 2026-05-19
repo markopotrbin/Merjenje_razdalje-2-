@@ -7,7 +7,7 @@ Najprej sva se doogvoila kateri senzor za merjenje dolžine bova uporabila. Izbi
 
 Laserski senzor sva naročila iz splene strani TEMU in upala da bo deloval. 
 
-#Kosovnica
+# Kosovnica
 
 ESP8266
 
