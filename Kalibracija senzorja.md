@@ -2,3 +2,4 @@
 Na mikrokrmilnik naložiš kodo:
 
 
+Je še pod vprašajem
