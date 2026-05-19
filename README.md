@@ -20,7 +20,7 @@ Povezovalne žice
 # Vezalna shema
 Izdela sva vezalno shemo v programu EasyEDA:
 
-<img width="720" height="340" alt="image" src="https://github.com/user-attachments/assets/159d638b-6360-4460-9102-abbdac08e2e7" />
+<img width="741" height="363" alt="image" src="https://github.com/user-attachments/assets/fe6088ce-8206-4cb9-bffc-4496de94fbf2" />
 
 
 
