@@ -31,6 +31,6 @@ Druga slika vezalne sheme je narisana z ESP8266, ki uporablja pine od D0 - D8.
 <img width="811" height="397" alt="image" src="https://github.com/user-attachments/assets/588cef75-bbf3-4262-afce-b3e7a7d6299d" />
 
 # Slika vezave
-To je slika vezave, kjer sva vse elemente dala v testno ploščo (protoboard). Nato sva povezala z povezovalnimi žicami, da vidiva, če vse komponente delajo tako kot mojrajo. Nato sva popravljala in nadgrajevala kodo.
+To je slika vezave, kjer sva vse elemente dala v testno ploščo (protoboard). Nato sva povezala z povezovalnimi žicami, da vidiva, če vse komponente delajo tako kot morajo. Nato sva popravljala in nadgrajevala kodo.
 
 <img width="1024" height="768" alt="Slika vezave" src="https://github.com/user-attachments/assets/f91174e9-2f8b-4a19-97e6-117215b3c268" />
