@@ -8,13 +8,16 @@ Najprej sva se dogovorila kateri senzor za merjenje dolžine bova uporabila. Izb
 
 # Kosovnica
 
-ESP8266
+Vsi elementi in komponente, ki sva jih uporabila:
+ESP8266,
 
-Zaslon: 1.8"TFT128*RGB*160
+Zaslon: 1.8"TFT128*RGB*160,
 
-Senzor: VL53L1X
+Senzor: VL53L1X,
 
-Povezovalne žice
+Povezovalne žice in pa
+
+Rjavi filament za 3D print.
 
 # Vezalna shema
 Izdela sva vezalno shemo v programu EasyEDA:
