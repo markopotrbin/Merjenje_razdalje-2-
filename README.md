@@ -3,7 +3,7 @@ Izdelala sva merilno napravo za merjenje dolžine. Uporabila sva laserski senzor
 
 
 # Kako sva začela?
-Najprej sva se dogovorila kateri senzor za merjenje dolžine bova uporabila. Izbirala sva med ultrazvočnim (HC-SR04) in laserskim (VL53L1X) senzorjem. Odločila sva se za laserskega, ker je natančnejši in ima manj tolerance (±2/3 mm). 
+Najprej sva se dogovorila kateri senzor za merjenje dolžine bova uporabila. Izbirala sva med ultrazvočnim (HC-SR04) in laserskim (VL53L1X) senzorjem. Odločila sva se za laserskega, ker je natančnejši in ima manj tolerance (± 2/3 mm). 
 
 
 # Kosovnica
