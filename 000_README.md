@@ -37,3 +37,4 @@ To je slika vezave, kjer sva vse elemente dala v testno ploščo (protoboard). N
 
 # Posnetek delovanja našrave
 
+Ostava sva pri točki 9. Komentar na delovanje in ocena 
