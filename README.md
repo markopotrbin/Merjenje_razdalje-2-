@@ -21,10 +21,11 @@ Vsi elementi in komponente, ki sva jih uporabila:
 - Rjavi filament za 3D print.
 
 # Vezalna shema
-Prva slika vezalne sheme je narisana z ESP8266, ki uporablja GIOP pine
+Prva slika vezalne sheme je narisana z ESP8266, ki uporablja GIO pine.
 
 <img width="741" height="363" alt="image" src="https://github.com/user-attachments/assets/fe6088ce-8206-4cb9-bffc-4496de94fbf2" />
 
+Druga slika vezalne sheme je narisana z ESP8266, ki uporablja pine od D0 - 
 
 <img width="811" height="397" alt="image" src="https://github.com/user-attachments/assets/588cef75-bbf3-4262-afce-b3e7a7d6299d" />
 
