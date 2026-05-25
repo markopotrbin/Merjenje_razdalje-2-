@@ -46,5 +46,4 @@ Naprava dela bezhibno in tako kot mora. Pri izdelavi te naprave sva imela nekaj 
 Ostava sva pri točki 9. Komentar na delovanje in ocena 
 
 # Možne izboljšave
-
 Heks
