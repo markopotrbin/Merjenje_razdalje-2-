@@ -35,6 +35,10 @@ To je slika vezave, kjer sva vse elemente dala v testno ploščo (protoboard). N
 
 <img width="1024" height="768" alt="Slika vezave" src="https://github.com/user-attachments/assets/f91174e9-2f8b-4a19-97e6-117215b3c268" />
 
-# Posnetek delovanja našrave
+
+# Slika končnega izdelka
+
+
+# Posnetek delovanja naprave
 
 Ostava sva pri točki 9. Komentar na delovanje in ocena 
