@@ -42,4 +42,5 @@ To je slika vezave, kjer sva vse elemente dala v testno ploščo (protoboard). N
 # Posnetek delovanja naprave
 
 Naprava dela bezhibno in tako kot mora. Pri izdelavi te naprave sva imela nekaj zežav s spajkanjam in pa ohišjem, ker nisva natančno izmerila komponent, zato sva morala potem to popraviti. Vesela sva, da nama je ta projetk vsel in da sva dosegla vse cilje, ki sva si jih zadala.
+
 Ostava sva pri točki 9. Komentar na delovanje in ocena 
