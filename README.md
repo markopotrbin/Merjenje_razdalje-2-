@@ -25,5 +25,5 @@ Izdela sva vezalno shemo v programu EasyEDA:
 
 <img width="811" height="397" alt="image" src="https://github.com/user-attachments/assets/588cef75-bbf3-4262-afce-b3e7a7d6299d" />
 
-# Slika vezave
+# Slika vezave (prototip vezave za merilnik)
 <img width="1024" height="768" alt="Slika vezave" src="https://github.com/user-attachments/assets/f91174e9-2f8b-4a19-97e6-117215b3c268" />
