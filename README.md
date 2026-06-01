@@ -15,9 +15,11 @@ Vsi elementi in komponente, ki sva jih uporabila:
 
 - Senzor: VL53L1X,
 
-- Povezovalne žice in pa
+- Povezovalne žice,
 
-- Rjavi filament za 3D print.
+- Rjavi filament za 3D print in
+
+- 9 V baterija.
 
 # Vezalna shema
 Prva slika vezalne sheme je narisana z ESP8266, ki uporablja GIO pine.
