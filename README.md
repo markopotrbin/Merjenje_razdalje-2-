@@ -34,6 +34,11 @@ To je slika vezave, kjer sva vse elemente dala v testno ploščo (protoboard). N
 
 <img width="1024" height="768" alt="Slika vezave" src="https://github.com/user-attachments/assets/f91174e9-2f8b-4a19-97e6-117215b3c268" />
 
+# Izdelovanje ohišja
+
+<img width="937" height="741" alt="image" src="https://github.com/user-attachments/assets/c1fff4d9-eceb-49eb-8958-f9a2de8c63c8" />
+
+<img width="891" height="491" alt="image" src="https://github.com/user-attachments/assets/a1c5b918-fc14-483d-9563-b9122c93451c" />
 
 # Slika končnega izdelka
 
