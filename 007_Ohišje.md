@@ -19,3 +19,20 @@ Za ohišje sva si izbrala 3D print, ker se nama je zdela najbolj ustrezna rešit
 **Leva stran za on off stikalo**
 
 <img width="556" height="488" alt="image" src="https://github.com/user-attachments/assets/7549d7f1-b2ae-48e8-ad16-ba106a9cb25c" />
+
+
+<img width="561" height="495" alt="image" src="https://github.com/user-attachments/assets/c36d3a41-16be-475a-9a48-bb6c8d4c65e0" />
+
+<img width="518" height="508" alt="image" src="https://github.com/user-attachments/assets/1ce667b7-ed44-43a6-aa98-4023dbd2a538" />
+
+# Pokrov
+
+<img width="675" height="506" alt="image" src="https://github.com/user-attachments/assets/197edad2-856f-4476-b035-3b0d573fba88" />
+
+<img width="236" height="366" alt="image" src="https://github.com/user-attachments/assets/c69b492d-66f6-4268-9bc1-146fe05eac94" />
+
+<img width="979" height="779" alt="image" src="https://github.com/user-attachments/assets/eb4da8e5-8882-4a54-ac3f-75fe718c37a8" />
+
+<img width="860" height="456" alt="image" src="https://github.com/user-attachments/assets/51b01f50-649c-48f2-82da-8db4b41da4e0" />
+
+<img width="913" height="552" alt="image" src="https://github.com/user-attachments/assets/a14109e1-1328-4e0d-8e5b-a381ef26a5dc" />
