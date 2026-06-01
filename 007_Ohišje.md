@@ -16,6 +16,6 @@ Za ohišje sva si izbrala 3D print, ker se nama je zdela najbolj ustrezna rešit
 <img width="677" height="473" alt="image" src="https://github.com/user-attachments/assets/a27e07a7-3e39-4fac-9bd9-311c55ff02b1" />
 
 
-**Leva stran za on off**
+**Leva stran za on off stikalo**
 
 <img width="556" height="488" alt="image" src="https://github.com/user-attachments/assets/7549d7f1-b2ae-48e8-ad16-ba106a9cb25c" />
