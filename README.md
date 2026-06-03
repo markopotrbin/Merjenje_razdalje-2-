@@ -34,6 +34,7 @@ Druga slika vezalne sheme je narisana z ESP8266, ki uporablja pine od D0 - D8.
 # Slika vezave
 To je slika vezave, kjer sva vse elemente dala na testno ploščo (protoboard). Nato sva povezala z povezovalnimi žicami, da vidiva, če vse komponente delajo tako kot morajo. Nato sva popravljala in nadgrajevala kodo.
 
+# Slika vezave (prototip vezave za merilnik)
 <img width="1024" height="768" alt="Slika vezave" src="https://github.com/user-attachments/assets/f91174e9-2f8b-4a19-97e6-117215b3c268" />
 
 # Izdelovanje ohišja
