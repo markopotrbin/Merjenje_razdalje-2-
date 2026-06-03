@@ -1,8 +1,0 @@
-# Kosovnica
-- ESP8266
-  
-- VL53L1X
-  
-- Zaslon: 1.8"TFT128RGB160
-  
-- Povezovalne žice
