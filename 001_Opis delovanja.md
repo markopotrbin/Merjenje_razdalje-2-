@@ -1,0 +1,4 @@
+# Opis delovanja
+Ta naprava je digitalni merilnik razdalje z vizualnim prikazom na zaslonu. Združuje natančen laserski senzor in barvni zaslon, celotno delovanje pa nadzoruje mikrokrmilnik ESP8266.
+
+Manjka slika končnega izdelka...
