@@ -44,3 +44,5 @@ Za ohišje sva si izbrala 3D print, ker se nama je zdela najbolj ustrezna rešit
 <img width="1497" height="1124" alt="image" src="https://github.com/user-attachments/assets/49f6dbce-e3db-40dd-bebc-4074f8b461ac" />
 
 <img width="1499" height="1117" alt="image" src="https://github.com/user-attachments/assets/4a9dfe76-6b4f-462f-b0d3-e9ef5a1ca574" />
+
+<img width="2254" height="1167" alt="image" src="https://github.com/user-attachments/assets/db4c22fa-8b9d-4365-b64f-643948d94e20" />
