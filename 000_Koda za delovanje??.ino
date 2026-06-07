@@ -28,7 +28,7 @@ void setup() {
     while(1);
   }
 
-  // FIKSNI NAPIS - ostane na vrhu
+  // FIKSNI NAPIS - ostane
   tft.setTextColor(ST77XX_CYAN);
   tft.setTextSize(2);
   tft.setCursor(15, 10); // Poravnano na levi rob (15 px od roba)
