@@ -1,1 +1,1 @@
-Umerjanje naprave ali A - test
+# Umerjanje naprave ali A - test
