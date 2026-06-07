@@ -41,6 +41,8 @@ Za ohišje sva si izbrala 3D print, ker se nama je zdela najbolj ustrezna rešit
 
 # Plošča za stabilizacijo zaslona
 
+<img width="1401" height="1073" alt="image" src="https://github.com/user-attachments/assets/5b0bce1f-db94-4380-b063-411f3d2cb580" />
+
 <img width="1497" height="1124" alt="image" src="https://github.com/user-attachments/assets/49f6dbce-e3db-40dd-bebc-4074f8b461ac" />
 
 <img width="1499" height="1117" alt="image" src="https://github.com/user-attachments/assets/4a9dfe76-6b4f-462f-b0d3-e9ef5a1ca574" />
