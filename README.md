@@ -19,7 +19,7 @@ Vsi elementi in komponente, ki sva jih uporabila:
 - 9 V baterija.
 
 # Vezalna shema
-Prva slika vezalne sheme je narisana z ESP8266, ki uporablja GIO pine.
+Prva slika vezalne sheme je narisana z ESP8266, ki uporablja GPIO pine.
 
 <img width="741" height="363" alt="image" src="https://github.com/user-attachments/assets/fe6088ce-8206-4cb9-bffc-4496de94fbf2" />
 
@@ -28,17 +28,17 @@ Druga slika vezalne sheme je narisana z ESP8266, ki uporablja pine od D0 - D8.
 
 <img width="811" height="397" alt="image" src="https://github.com/user-attachments/assets/588cef75-bbf3-4262-afce-b3e7a7d6299d" />
 
-# Vezava
+# Prototip vezave za merilnik
+
 To je slika vezave, kjer sva vse elemente dala na testno ploščo (protoboard). Nato sva vse povezala z povezovalnimi žicami, da vidiva, če vse komponente delajo tako kot morajo. Nato sva popravljala in nadgrajevala kodo.
 
-# Prototip vezave za merilnik
 <img width="1024" height="768" alt="Slika vezave" src="https://github.com/user-attachments/assets/f91174e9-2f8b-4a19-97e6-117215b3c268" />
 
 # Ohišje
 
 <img width="937" height="741" alt="image" src="https://github.com/user-attachments/assets/c1fff4d9-eceb-49eb-8958-f9a2de8c63c8" />
 
-<img width="891" height="491" alt="image" src="https://github.com/user-attachments/assets/a1c5b918-fc14-483d-9563-b9122c93451c" />
+<img width="1776" height="823" alt="image" src="https://github.com/user-attachments/assets/1e7e3768-3c9e-40a3-8949-b2e7a492c8b7" />
 
 # Slika končnega izdelka
 
