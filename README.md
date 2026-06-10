@@ -58,4 +58,4 @@ težave
 
 
 # Možne izboljšave
-Heks
+Boljši senzor, lahko bi naredila boljše ohišje.
