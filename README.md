@@ -51,7 +51,7 @@ Naprava dela bezhibno in tako kot mora. Pri izdelavi te naprave sva imela nekaj 
 
 # A - test
 
-
+<img width="1804" height="2573" alt="Image (6)" src="https://github.com/user-attachments/assets/f876b70c-d2b3-4ef0-a12f-de2fdf0544ab" />
 
 # Komentar
 težave
