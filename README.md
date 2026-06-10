@@ -47,7 +47,11 @@ To je slika vezave, kjer sva vse elemente dala na testno ploščo (protoboard). 
 # Posnetek delovanja naprave
 Naprava dela bezhibno in tako kot mora. Pri izdelavi te naprave sva imela nekaj zežav s spajkanjam in ohišjem, ker nisva natančno izmerila komponent, zato sva morala potem to popraviti. Vesela sva, da nama je ta projetk vsel in da sva dosegla vse cilje, ki sva si jih zadala.
 
+https://github.com/user-attachments/assets/93ca2d46-f837-4e1e-83df-02069dcde373
 
+Povezava do posnetka, ki je na socialnih omrežjih:
+
+https://www.youtube.com/shorts/e-_ApeiAvto
 
 # A - test
 
