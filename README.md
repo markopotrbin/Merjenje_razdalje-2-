@@ -44,13 +44,18 @@ To je slika vezave, kjer sva vse elemente dala na testno ploščo (protoboard). 
 
 <img width="1601" height="1481" alt="Image (4)" src="https://github.com/user-attachments/assets/6819a4b6-4ea0-47ea-96c0-c75d555e2e33" />
 
-
 # Posnetek delovanja naprave
-Naprava dela bezhibno in tako kot mora. Pri izdelavi te naprave sva imela nekaj zežav s spajkanjam in pa ohišjem, ker nisva natančno izmerila komponent, zato sva morala potem to popraviti. Vesela sva, da nama je ta projetk vsel in da sva dosegla vse cilje, ki sva si jih zadala.
+Naprava dela bezhibno in tako kot mora. Pri izdelavi te naprave sva imela nekaj zežav s spajkanjam in ohišjem, ker nisva natančno izmerila komponent, zato sva morala potem to popraviti. Vesela sva, da nama je ta projetk vsel in da sva dosegla vse cilje, ki sva si jih zadala.
 
-Ostava sva pri točki 9. Komentar na delovanje in ocena 
+
+
+# A - test
+
+
 
 # Komentar
 težave
+
+
 # Možne izboljšave
 Heks
