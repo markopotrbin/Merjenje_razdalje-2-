@@ -57,6 +57,14 @@ https://www.youtube.com/shorts/e-_ApeiAvto
 
 <img width="1804" height="2573" alt="Image (6)" src="https://github.com/user-attachments/assets/f876b70c-d2b3-4ef0-a12f-de2fdf0544ab" />
 
+# Meja napake v %
+Enačba za izračun relativne napake:
+
+<img width="123" height="65" alt="image" src="https://github.com/user-attachments/assets/11c94516-1241-497a-ad15-e27c51d67993" />
+
+
+<img width="448" height="246" alt="image" src="https://github.com/user-attachments/assets/8720a0a5-00a2-43ce-8e83-5a22f024fd97" />
+
 # Komentar
 Čeprav naprava danes deluje brezhibno, pot do končnega izdelka ni bila lahka. Soočila sva se z večjimi izzivi na treh glavnih področjih:
 
