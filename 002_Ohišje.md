@@ -49,4 +49,4 @@ Za ohišje sva si izbrala 3D print, ker se nama je zdela najbolj ustrezna rešit
 
 <img width="2254" height="1167" alt="image" src="https://github.com/user-attachments/assets/db4c22fa-8b9d-4365-b64f-643948d94e20" />
 
-# Obroba za zaslon
+
