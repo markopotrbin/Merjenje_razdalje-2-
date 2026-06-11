@@ -70,7 +70,7 @@ Enačba za izračun relativne napake:
 
 1. **Težave s pisanjem kode:**
 
-Pri pisanju kode sva imela na začetku precej težav, saj stvar sploh ni delovala pravilno. Največ težav je bilo z uvozom knjižnic in pravilno nastavitvijo zaslona ter senzorja. Ko nama je uspelo povezati komponente, so meritve močno nihale, zaslon pa se ni osveževal, kot bi se moral. Zato sva morala kodo večkrat popraviti in predelati. Da bi dobila natančnejše podatke, sva nastavila tako, da program naredi 50 meritev in iz njih izračuna povprečje (da podatki ne skačejo), hkrati sva morala ročno kalibrirati odstopanja pri različnih obmožjih.
+Pri pisanju kode sva imela na začetku precej težav, saj stvar sploh ni delovala pravilno. Največ težav je bilo z uvozom knjižnic in pravilno nastavitvijo zaslona ter senzorja. Ko nama je uspelo povezati komponente, so meritve močno nihale, zaslon pa se ni osveževal, kot bi se moral. Zato sva morala kodo večkrat popraviti in predelati. Da bi dobila natančnejše podatke, sva nastavila tako, da program naredi 50 meritev in iz njih izračuna povprečje (da podatki ne skačejo), hkrati sva morala ročno kalibrirati odstopanja pri različnih območjih.
 
 2. **Težave z ohišjem:**
 
