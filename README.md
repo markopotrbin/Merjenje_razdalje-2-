@@ -60,11 +60,15 @@ https://www.youtube.com/shorts/e-_ApeiAvto
 # Komentar
 Čeprav naprava danes deluje brezhibno, pot do končnega izdelka ni bila lahka. Soočila sva se z večjimi izzivi na treh glavnih področjih:
 
-1. **Težave s pisanjem kode:** Na začetku koda sploh ni delovala pravilno. Imela sva težave z uvozi knjižnic in pravilno določitvijo zaslona ter senzorja. Meritve so nihale, zaslon se ni pravilno osveževal, zato sva morala kodo večkrat popolnoma spremeniti, dodati vzorčenje (povprečje 50 meritev) in ročno kalibrirati odstopanja za različna območja (do 20 cm, do 30 cm in nad 30 cm). //POPRAVI
-2. **Težave z ohišjem:** Pri prvem načrtovanju ohišja nisva dovolj natančno izmerila vseh fizičnih komponent. Ko je bil tisk končan, sva ugotovila, da zaslon in baterija ne sežeta na svoja mesta, žice pa so bile preveč stisnjene. Ohišje sva morala popraviti in ga natisniti ponovno.
+1. **Težave s pisanjem kode:**
+
+Pri pisanju kode sva imela na začetku precej težav, saj stvar sploh ni delovala pravilno. Največ težav je bilo z uvozom knjižnic in pravilno nastavitvijo zaslona ter senzorja. Ko nama je uspelo povezati komponente, so meritve močno nihale, zaslon pa se ni osveževal, kot bi se moral. Zato sva morala kodo večkrat popraviti in predelati. Da bi dobila natančnejše podatke, sva nastavila tako, da program naredi 50 meritev in iz njih izračuna povprečje (da podatki ne skačejo), hkrati sva morala ročno kalibrirati odstopanja pri različnih obmožjih.
+
+2. **Težave z ohišjem:**
+
+Pri prvem načrtovanju ohišja nisva dovolj natančno izmerila vseh fizičnih komponent. Ko je bil tisk končan, sva ugotovila, da zaslon in baterija ne sežeta na svoja mesta, žice pa so bile preveč stisnjene. Ohišje sva morala popraviti in ga natisniti ponovno.
 
 Kljub vsem oviram sva izjemno vesela, da nama je projekt uspelo pripeljati do konca, saj sva se skozi te napake ogromno naučila o praktičnem reševanju inženirskih problemov.
-
 
 # Možne izboljšave
 Boljši senzor, lahko bi naredila boljše ohišje.
