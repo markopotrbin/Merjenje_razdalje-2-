@@ -71,4 +71,10 @@ Pri prvem načrtovanju ohišja nisva dovolj natančno izmerila vseh fizičnih ko
 Kljub vsem oviram sva izjemno vesela, da nama je projekt uspelo pripeljati do konca, saj sva se skozi te napake ogromno naučila o praktičnem reševanju inženirskih problemov.
 
 # Možne izboljšave
-Boljši senzor, lahko bi naredila boljše ohišje.
+Boljši senzor - MaxBotix
+
+Lahko bi prej naredila luknje v ohišje (že v onshape programu)
+
+Lahko bi dodala laser, da bi se videlo kam merimo.
+
+Več kalibracijskih točk, da bi naprava bila še bolj natančna.
